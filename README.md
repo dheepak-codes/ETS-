@@ -27,7 +27,7 @@ A modern, full-stack Esports Tournament Management System supporting multi-game 
 
 4. **Access the Application**
    Open your browser and navigate to:
-   [http://localhost:3000](http://localhost:3000)
+  https://etsjava.netlify.app/
 
 ---
 
